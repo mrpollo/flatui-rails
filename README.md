@@ -19,7 +19,7 @@ Or install it yourself as:
 
 ## Usage
 
-Add to your application.css
+Add to your application.css, after require bootstrap.
  
     *= require flat-ui
 
